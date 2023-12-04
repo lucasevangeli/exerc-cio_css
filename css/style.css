@@ -1,0 +1,33 @@
+/* estilo do exercicio */
+
+
+
+.secao1 p {
+    color: rgb(238, 137, 15);
+    
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.secao1  h2 {
+    color:#8a2be2;
+    text-align: center;
+}
+.secao1  h3 {
+    text-align: center;
+    color: #8a2be2;
+}
+.secao1 time {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+.secao1 a {
+    
+    color: aliceblue;
+    background-color: #8a2be2;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10;
+    text-decoration: none;
+    border-radius: 10%;
+}
